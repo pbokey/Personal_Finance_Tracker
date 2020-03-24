@@ -1,0 +1,4 @@
+Type, Amount, Category, Vendor
+debit,5.31,entertainment,Spotify
+debit,5.31,entertainment,Apple_Music
+debit,1.02,services,iCloud

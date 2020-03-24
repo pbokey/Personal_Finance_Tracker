@@ -1,0 +1,2 @@
+Threading on Flask: https://stackoverflow.com/questions/14384739/how-can-i-add-a-background-thread-to-flask
+Flask Refresher: https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework

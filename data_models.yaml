@@ -1,0 +1,20 @@
+Request from iPhone to Backend
+
+iphone_data : {
+  "type":"credit/debit",
+  "amount":400,
+  "category":"food/rent/etc.",
+  "vendor": "Lucky Goat",
+  "location":{
+    "lat":lat,
+    "long":long
+  }
+}
+
+Each month there will need to be a new csv
+
+How do we automate monthly transactions?
+- use threading to run a service every month
+- every day, run a function on the server that will update the global time stamp variable
+- whenever the month for the new timestamp differs from the month from the old timestamp then run a function that will put 
+  all the monthly charges in a new csv

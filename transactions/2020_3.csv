@@ -1,0 +1,5 @@
+Timestamp, Type, Amount, Category, Vendor, Lat, Long 
+2020-03-24 17:05:29.047267,debit,5.31,entertainment,Spotify
+2020-03-24 17:05:29.047267,debit,5.31,entertainment,Apple_Music
+2020-03-24 17:05:29.047267,debit,1.02,services,iCloud
+2020-03-24 17:05:29.047484,credit,400,rent,standard,1.0,1.0
